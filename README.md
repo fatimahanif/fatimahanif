@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatimahanif
-- 👩‍💻 I am a machine learning engineer with 1.5 years of experience
+- 👩‍💻 I am a machine learning engineer with 2.5 years of experience
 - 👀 I mainly work on time series forecasting and NLP
 - 🌱 I’m interested in learning more about computer vision
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/fatimahanif303/
